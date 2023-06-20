@@ -1,4 +1,8 @@
-<h1 align="center">Setup audio on Chromebooks</h1>
+<h1 align="center">⚠️ REPOSITORY DISCONTINUED (REPLACEMENT LISTED BELOW)</h1>
+This repository is discontinued, please use this one instead: https://github.com/WeirdTreeThing/chromebook-linux-audio
+<br><br>
+<details>
+<summary>View the original Readme:</summary>
 
 # Instructions
 1. `git clone https://github.com/eupnea-linux/audio-scripts`
@@ -18,3 +22,4 @@
 6. Arch Linux
 
 Other distros will likely work but will require you to manually install packages.
+</details>
